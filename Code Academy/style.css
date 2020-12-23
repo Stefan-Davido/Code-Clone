@@ -1,0 +1,153 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+header{
+    display:flex;
+    height: 10%;
+    width: 100%;
+    margin-top:2%;
+}
+.logo{
+    width: 15%;
+    height: 35%;
+}
+.phone{
+    color: #0081ff;
+    text-decoration: none;
+    margin-left: 30%;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-top: 0.7%;
+}
+.nav{
+    margin-top: 0.7%;
+}
+.nav_item{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+    font-weight: 100;
+}
+.apliciraj_button{
+    width:13%;
+    height:45px;
+    background-color:#0081ff;
+    color:white;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 400;
+}
+.nav_item:hover{
+    text-decoration: underline 2px;
+    text-decoration-color: #0081ff;
+    margin-top: 10%;
+}
+.vo_tek{
+    width:15%;
+    height: 40px;
+    margin-top:8%;
+}
+.upisi{
+    
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgb(218, 219, 219);
+    border-radius: 15px;
+    padding:2%;
+    padding-right: 0;
+    color:rgb(6 184 255);
+}
+.span{
+    padding:1%;
+    color:white;
+    background-color: #14bf14;
+    border-radius: 15px;
+    font-size:100%;
+}
+.flex{
+    display: inline-flex;
+}
+.gradient{
+    background: linear-gradient(180deg, white, #dddfe0);
+    width:100%;
+}
+.parola{
+    margin:0;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.visoko_platen{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rati{
+    height: 40px;
+    width:250%;
+    background-color: lightgray;
+    margin:0;
+    border-collapse: collapse;
+    color:rgb(6 184 255)
+}
+.apliciraj_button2{
+    width:100%;
+    height:45px;
+    background-color:#0081ff;
+    color:white;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 20%;
+    border-color:#0081ff ;
+    border-collapse: collapse;
+}
+.face_div{
+    margin-top:-7%;
+}
+.face{
+    width:125%;
+    margin-left: 10%;
+}
+.padding_nums{
+    margin-top:20%;
+}
+.article{
+    width:70%;
+    
+}
+.num_desc{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 10%;
+    font-family: 'Open Sans', sans-serif;;
+}
+.arcicle_p{
+    font-size: 15px;
+}
+.onetwothree{
+    text-align: center;
+    font-size:40px;
+    margin-top:-10%;
+}
+.margin_nums{
+    left:50;
+}
+.margin_desc{
+    margin-top:10%;
+}
+.circle{
+    border-radius: 100%;
+    border:15px solid rgb(236, 236, 236);
+    background-color: white;
+    margin-top:-10%;
+    padding:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: 900;
+    font-family: fantasy;
+}
